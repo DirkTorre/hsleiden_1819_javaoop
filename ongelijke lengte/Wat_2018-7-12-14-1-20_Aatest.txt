@@ -1,0 +1,29 @@
+Wat is de grootte van:@fig5#groot@middelgroot@klein
+Welk aminozuur is wel hydrofoob?@null#Asp@Pro@Gly
+Welk aminozuur is wel positief?@null#Lys@Gly@Ser
+Welk aminozuur is wel neutraal?@null#E@K@W
+Wat is de grootte van Serine?@null#groot@middelgroot@klein
+Welk aminozuur is wel hydrofoob?@null#fig3@fig19@fig0
+Welk aminozuur is wel hydrofiel?@null#fig15@fig5@fig11
+Wat is de hydrofobiciteit van Gly?@null#hydrofiel@neutraal@hydrofoob
+Wat is de 3d voorkeur van Glutamic acid?@null#helix@turn@sheet@geen
+Welk aminozuur is wel hydrofoob?@null#W@G@N
+Welk aminozuur heeft een voorkeur voor geen 3d sctructuur@null#Met@Arg@Glu
+Welk aminozuur is niet hydrofiel?@null#D@N@W
+Welk aminozuur is wel groot?@null#fig13@fig0@fig5
+Welk aminozuur is wel hydrofoob?@null#S@E@M
+Wat is de hydrofobiciteit van Thr?@null#hydrofiel@neutraal@hydrofoob
+Welk aminozuur heeft geen voorkeur voor een sheet?@null#Valine@Phenylalanine@Lysine
+Welk aminozuur is niet middelgroot?@null#fig18@fig11@fig3
+Welk aminozuur heeft een voorkeur voor een helix?@null#D@I@G
+Wat is de hydrofobiciteit van Lysine?@null#hydrofiel@neutraal@hydrofoob
+Welk aminozuur is niet neutraal?@null#Q@A@K
+Wat is de structuur van Valine?@null#fig9@fig2@fig5
+Welk aminozuur is niet positief?@null#K@D@H
+Wat is de volledige naam van:@fig5#Methionine@Valine@Isoleucine
+Wat is de hydrofobiciteit van P?@null#hydrofiel@neutraal@hydrofoob
+Welk aminozuur is wel neutraal?@null#R@Y@C
+Welk aminozuur is wel neutraal?@null#fig7@fig2@fig11
+Welk aminozuur heeft geen voorkeur voor een turn?@null#A@G@P
+Welk aminozuur heeft een voorkeur voor een helix?@null#fig7@fig2@fig18
+Wat is de 3-lettercode van S?@null#Ile@Pro@Ser
